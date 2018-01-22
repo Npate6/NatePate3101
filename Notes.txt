@@ -5,3 +5,8 @@ you must
 git add .
 git commit "text"
 git push
+
+
+add everyone to your repository
+add a markdown file to everyone else's repository with your name in it with your name in the file name
+turn in a screenshot with your repo
