@@ -1,1 +1,7 @@
 to put git things in a place> right click> git bash> git clone (the link for the github repository)
+
+you must 
+ in a git bash
+git add .
+git commit "text"
+git push
