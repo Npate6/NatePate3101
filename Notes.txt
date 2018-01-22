@@ -1,0 +1,1 @@
+to put git things in a place> right click> git bash> git clone (the link for the github repository)
